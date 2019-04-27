@@ -21,7 +21,7 @@ class _WallpapersState extends State<Wallpapers> {
       /* Scaffold is a widget which creates a material design visual layout structure.
   This class provides APIs for showing drawers, snack bars, and bottom sheets. */
       Scaffold(
-        // AppBar which shows the AppBar at the top of the scaffold wich takes title, menuItems, drawers and more.
+        // AppBar which shows the AppBar at the top of the scaffold which takes title, menuItems, drawers and more.
         appBar: AppBar(
           title: Text('Portraits'),
           backgroundColor: Color.fromRGBO(9, 9, 26, 1.0),
@@ -75,7 +75,8 @@ class _WallpapersState extends State<Wallpapers> {
       // `?` means if and `:` means else
       ? GridView.count(
           crossAxisCount: 2,
-          childAspectRatio: 1.0,
+          childAspectRatio: .64,
+          shrinkWrap: false,
           // List -> Creates a scrollable, 2D array of widgets with a fixed number of tiles in the cross axis.
           children: List.generate(
               wallList.length,

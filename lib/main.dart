@@ -31,10 +31,12 @@ class Portraits extends StatelessWidget {
         home: Wallpapers(),
         // theme declares the default visual properties, like colors fonts and shapes, for this app's material widgets.
         theme: ThemeData(
-            primaryColor: Color.fromRGBO(9, 9, 26, 1.0),
-            cardColor: Color.fromRGBO(9, 9, 26, 1.0),
-            canvasColor: Color.fromRGBO(9, 9, 26, 1.0),
-            primaryTextTheme: Typography().white,
-            textTheme: Typography().white),
+          primaryColor: Color.fromRGBO(9, 9, 26, 1.0),
+          cardColor: Color.fromRGBO(9, 9, 26, 1.0),
+          canvasColor: Color.fromRGBO(9, 9, 26, 1.0),
+          primaryTextTheme: Typography().white,
+          textTheme: Typography().white,
+          fontFamily: 'Pacifico',
+        ),
       );
 }
