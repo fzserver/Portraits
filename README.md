@@ -16,9 +16,9 @@ Development of Portraits for which explains flutter and firebase Web Developers 
 
 ## Screenshots
 
-![SC1](assets/1.png)
+![SC1](assets/sc1.webp)
 
-![SC2](assets/2.png)
+![SC2](assets/sc2.webp)
 
 ## Developed By
 
