@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>446119608050-l0jake15uo1508mq8ldilbitba5rjhn8.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.446119608050-l0jake15uo1508mq8ldilbitba5rjhn8</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAzw23hGNbv-7rCwlTSXOEibrQH2e47th8</string>
+	<key>GCM_SENDER_ID</key>
+	<string>446119608050</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.wdd.portraits</string>
+	<key>PROJECT_ID</key>
+	<string>wallpapers-fraz</string>
+	<key>STORAGE_BUCKET</key>
+	<string>wallpapers-fraz.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:446119608050:ios:aa00e035829ad578</string>
+	<key>DATABASE_URL</key>
+	<string>https://wallpapers-fraz.firebaseio.com</string>
+</dict>
+</plist>

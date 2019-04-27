@@ -1,16 +1,27 @@
-# portraits
+# Portraits
 
-A new Flutter project.
+Development of Portraits for which explains flutter and firebase Web Developers Day 3
 
-## Getting Started
+## Dependencies used
 
-This project is a starting point for a Flutter application.
+**All dependencies are included in `pubspec.yaml`**
 
-A few resources to get you started if this is your first Flutter project:
+**Dependencies Used in this app**
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+* **cupertino_icons**
+* **firebase_core**
+* **firebase_analytics**
+* **cloud_firestore**
+* **http**
 
-For help getting started with Flutter, view our 
-[online documentation](https://flutter.dev/docs), which offers tutorials, 
-samples, guidance on mobile development, and a full API reference.
+## Screenshots
+
+![SC1](assets/1.png)
+
+![SC2](assets/2.png)
+
+## Developed By
+
+```
+Parth Aggarwal CEO & Developer of Frazile Inc.
+```
