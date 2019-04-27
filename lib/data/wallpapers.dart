@@ -75,7 +75,7 @@ class _WallpapersState extends State<Wallpapers> {
       // `?` means if and `:` means else
       ? GridView.count(
           crossAxisCount: 2,
-          childAspectRatio: .64,
+          childAspectRatio: 1.0,
           shrinkWrap: false,
           // List -> Creates a scrollable, 2D array of widgets with a fixed number of tiles in the cross axis.
           children: List.generate(
